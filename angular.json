@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TaskTracker"
+    }
+  },
+  "defaultProject": "TaskTracker",
+  "cli": {
+    "analytics": "79cad7c7-80c2-4b7b-8bdf-23cd5212a926"
+  }
 }
